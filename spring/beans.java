@@ -55,6 +55,7 @@ private EmployeeService employeeService;
 /*
 Interview Answer (Short)-->
 ---------------------------
-A JavaBean is a reusable Java class that has private properties, public getter/setter methods, a no-argument constructor, and is usually serializable. 
+A JavaBean is a reusable Java class that has private properties, public getter/setter methods,
+a no-argument constructor, and is usually serializable. 
 In Spring, a Bean refers to any object managed by the Spring IoC container.
 */
